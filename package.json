@@ -1,0 +1,19 @@
+{
+  "name": "pk-hello-world",
+  "version": "1.0.0",
+  "description": "Sample \"hello world\" npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irewapaul/pk-hello-world.git"
+  },
+  "author": "Paul King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irewapaul/pk-hello-world/issues"
+  },
+  "homepage": "https://github.com/irewapaul/pk-hello-world#readme"
+}
